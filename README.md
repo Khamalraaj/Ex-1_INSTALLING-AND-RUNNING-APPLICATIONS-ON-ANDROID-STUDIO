@@ -4,7 +4,7 @@ Name: khamalraaj S
 
 Register Number: 212224230122
 
-Software Requirements
+# Software Requirements
 
 - Android Studio
 - Android SDK
@@ -13,7 +13,7 @@ Software Requirements
 - Android Phone or Emulator
 - Internet Connection
 
-Step 1 – System Requirements
+# Step 1 – System Requirements
 
 Android Studio is used to develop and run Android applications. Java is used to write the application code, and Firebase Realtime Database stores application data online.
 
@@ -25,7 +25,7 @@ Required Software
 - Firebase Console
 - Android Emulator or Mobile Phone
 
-Step 2 – Setup Android Studio
+# Step 2 – Setup Android Studio
 
 Android Studio is the official development environment used to create Android applications.
 
@@ -53,7 +53,7 @@ Creating the Contact Manager Application
 3. Store contact details under the "contacts" node.
 4. Display the saved contacts in the application.
 
-Step 3 – Run the Application
+# Step 3 – Run the Application
 
 1. Open the project in Android Studio.
 2. Connect an Android phone or start an emulator.
@@ -62,10 +62,12 @@ Step 3 – Run the Application
 5. Open Firebase Console and verify the saved data.
 6. Test updating and deleting contacts.
 
-Output
+# Output:
+<img width="1254" height="698" alt="Screenshot 2026-10-27 094020" src="https://github.com/user-attachments/assets/25799a3e-07a2-404c-8d33-6f050723adcc" />
+
+<img width="1080" height="2392" alt="Screenshot_20261027_093949" src="https://github.com/user-attachments/assets/a2be9388-0b30-4372-b757-2655a07fb994" />
 
 
-
-Result
+# Result:
 
 Thus, the Android application was successfully created and executed using Android Studio and connected to Firebase Realtime Database.
