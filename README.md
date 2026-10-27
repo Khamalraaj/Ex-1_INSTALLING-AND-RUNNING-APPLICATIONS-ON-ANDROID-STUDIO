@@ -65,6 +65,9 @@ Creating the Contact Manager Application
 # Output:
 <img width="1254" height="698" alt="Screenshot 2026-10-27 094020" src="https://github.com/user-attachments/assets/25799a3e-07a2-404c-8d33-6f050723adcc" />
 
+
+
+
 <img width="1080" height="2392" alt="Screenshot_20261027_093949" src="https://github.com/user-attachments/assets/a2be9388-0b30-4372-b757-2655a07fb994" />
 
 
